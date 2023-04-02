@@ -9,7 +9,6 @@ import re
 
 errors = []
 
-# Function to calculate the contrast ratio
 def contrast_ratio(color1: Tuple[int, int, int], color2: Tuple[int, int, int]) -> float:
     l1 = (0.2126 * color1[0] + 0.7152 * color1[1] + 0.0722 * color1[2]) / 255
     l2 = (0.2126 * color2[0] + 0.7152 * color2[1] + 0.0722 * color2[2]) / 255
@@ -19,7 +18,7 @@ def contrast_ratio(color1: Tuple[int, int, int], color2: Tuple[int, int, int]) -
     else:
         return (l2 + 0.05) / (l1 + 0.05)
 
-# Function to fetch and parse the CSS styles
+
 def get_styles(url: str) -> cssutils.css.CSSStyleSheet:
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -134,11 +133,10 @@ def analyze_site_colors(url: str):
             ratio = contrast_ratio(bg_color_rgb, color_rgb)
             if ratio >= contrast_ratio_threshold:
                 print(f"{text_type} contrast: pass")
-                errors.append(f"{text_type} contrast: pass")
             else:
                 suggested_color = suggest_color(color_rgb, contrast_ratio_threshold)
                 print(f"{text_type} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
-                errors.append(f"{text_type} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
+                errors.append(f"{text_type} f{selector} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
 
     for rule in sheet:
         if isinstance(rule, cssutils.css.CSSMediaRule) and 'prefers-color-scheme: dark' in rule.media.mediaText:
@@ -173,6 +171,7 @@ def analyze_site_colors(url: str):
     if not dark_theme_present:
         print("Dark theme not detected. Consider adding a dark theme with appropriate color contrast.")
         errors.append("Dark theme not detected. Consider adding a dark theme with appropriate color contrast.")
+
 
 if __name__ == "__main__":
     url = input("Enter the URL: ")
