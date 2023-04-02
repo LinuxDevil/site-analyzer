@@ -1,0 +1,1225 @@
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.94. Consider using #da6482 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.94. Consider using #da6482 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 4.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.25. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.25. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.30. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.61. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.76. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.15. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.49. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.29. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.29. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.62. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.25. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.25. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.39. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.34. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.18. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.18. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.19. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.59. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.44. Consider using #00cdbd for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.44. Consider using #00cdbd for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.03. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.03. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.64. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.64. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.64. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.64. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #6d6d6d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #6d6d6d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.05. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.05. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.06. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.06. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.04. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.04. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.15. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.15. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #339987 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #329cc1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #a05a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.00. Consider using #e25b5b for better contrast.
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.60. Consider using #808080 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.60. Consider using #808080 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.45. Consider using #717171 for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.43. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.46. Consider using #767676 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.46. Consider using #767676 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.91. Consider using #666666 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.91. Consider using #666666 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.70. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.70. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.31. Consider using #6b6a6a for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.46. Consider using #767676 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.46. Consider using #767676 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.33. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.33. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 4.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.29. Consider using #919191 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.29. Consider using #919191 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.94. Consider using #6b6b6b for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.94. Consider using #6b6b6b for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.07. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.07. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.75. Consider using #828282 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.75. Consider using #828282 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.26. Consider using #858585 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.26. Consider using #858585 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.51. Consider using #7d7d7d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.51. Consider using #7d7d7d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.66. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.66. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.55. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #999898 for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.11. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #999898 for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.91. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #e84a3d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #e84a3d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.83. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.83. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.42. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #e84a3d for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #e84a3d for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.27. Consider using #d38a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.27. Consider using #d38a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.27. Consider using #d38a00 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.27. Consider using #d38a00 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.07. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.48. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #3da565 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #3da565 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.56. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.85. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #3da565 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #3da565 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.51. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.68. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #818181 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #818181 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.24. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.24. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.41. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #818181 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #818181 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.43. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.77. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #5378c7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #5378c7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.72. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.72. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.14. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #5378c7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #5378c7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.45. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.45. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.87. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.45. Consider using #0886c4 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.45. Consider using #0886c4 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.45. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.45. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.37. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.55. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.45. Consider using #0886c4 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.45. Consider using #0886c4 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.63. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.04. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.98. Consider using #df5644 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.98. Consider using #df5644 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.75. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.75. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.98. Consider using #df5644 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.98. Consider using #df5644 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.80. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.80. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.40. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.13. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.80. Consider using #ec5c92 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.80. Consider using #ec5c92 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.80. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.80. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.60. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.80. Consider using #ec5c92 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.80. Consider using #ec5c92 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.38. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.10. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #378ef7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #378ef7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.45. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.45. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.98. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #378ef7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #378ef7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.47. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.99. Consider using #207fb7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.99. Consider using #207fb7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.81. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.81. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.20. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.99. Consider using #207fb7 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.99. Consider using #207fb7 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.99. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.40. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.16. Consider using #e2463a for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.16. Consider using #e2463a for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.89. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.89. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.52. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.16. Consider using #e2463a for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.16. Consider using #e2463a for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.02. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #e48084 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #e48084 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.28. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.28. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.17. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.69. Consider using #e48084 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.69. Consider using #e48084 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 4.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.49. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 4.20. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.31. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.31. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 3.56. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.31. Consider using #7296bd for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.31. Consider using #7296bd for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.31. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.31. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.58. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.31. Consider using #7296bd for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.31. Consider using #7296bd for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.35. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.23. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.09. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.27. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.67. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.74. Consider using #7e7e7e for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #989898 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #989898 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.90. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.08. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.08. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 3.11. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 2.32. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.32. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.70. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.70. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.16. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 4.47. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: pass
+Light theme large text contrast: pass
+Light theme normal text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.54. Consider using #8f8f8f for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 1.66. Consider using #00b3b1 for better contrast.
+Light theme normal text contrast: Failed. Contrast ratio: 2.06. Consider using #989898 for better contrast.
+Light theme large text contrast: Failed. Contrast ratio: 2.06. Consider using #989898 for better contrast.
+Dark theme not detected. Consider adding a dark theme with appropriate color contrast.
