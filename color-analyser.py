@@ -136,7 +136,7 @@ def analyze_site_colors(url: str):
             else:
                 suggested_color = suggest_color(color_rgb, contrast_ratio_threshold)
                 print(f"{text_type} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
-                errors.append(f"{text_type} f{selector} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
+                errors.append(f"In selector: f{selector}, the {text_type} contrast: Failed. Contrast ratio: {ratio:.2f}. Consider using {suggested_color} for better contrast.")
 
     for rule in sheet:
         if isinstance(rule, cssutils.css.CSSMediaRule) and 'prefers-color-scheme: dark' in rule.media.mediaText:
