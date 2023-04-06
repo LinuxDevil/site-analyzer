@@ -17,7 +17,7 @@ import { responseTransformer, errorHandler } from './HttpTransformers';
 class Axios implements HttpClient {
     axiosApi: AxiosInstance = axios.create();
     domain = new URL(location.href);
-    defaultUrl = `${this.domain.origin}:3000/api/v1/`;
+    defaultUrl = `${this.domain.origin}:4000/api/v1/`;
 
     public request<Response>(option: IRequestOption): Promise<Response> {
         const axiosApi: AxiosInstance = axios.create();
