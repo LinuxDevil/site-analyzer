@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './styles/globals.scss';
 import reportWebVitals from './reportWebVitals';
-import LandingPage from './pages/landing/LandingPage';
+import LandingPage from './pages/landing/landing.page';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

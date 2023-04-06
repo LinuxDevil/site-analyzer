@@ -42,7 +42,8 @@ async def fast_http_exception_handler(request, exc):
         status_code=exc.status_code, content=jsonable_encoder({"detail": exc.detail})
     )
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
-
+@app.post('/v1/api/analyze')
+async def color_analyse(url: str):
+    return {
+        filePath: anaylyze_and_save_report(url)
+    }    
