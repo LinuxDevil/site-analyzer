@@ -18,12 +18,13 @@ import { responseTransformer, errorHandler } from './HttpTransformers';
 class Axios implements HttpClient {
     axiosApi: AxiosInstance = axios.create();
     domain = new URL(location.href);
-    defaultUrl = `${this.domain.origin}:4000/api/v1/`;
+    defaultUrl = `http://localhost:4000/api/v1/`;
+
 
     public request<Response>(option: IRequestOption): Promise<Response> {
         const axiosApi: AxiosInstance = axios.create();
+        console.log(this.defaultUrl + option.url);
 
-        // axiosApi.interceptors.response.use(responseTransformer, errorTransformer);
         axiosApi.interceptors.response.use(responseTransformer);
         const headers = {
             ...option.headers

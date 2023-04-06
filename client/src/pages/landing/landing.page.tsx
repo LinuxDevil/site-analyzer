@@ -21,9 +21,6 @@ const LandingPage = () => {
         show(toast, type, title, message);
     };
 
-    const isUrlInvalid = () => {
-        return !LandingService.Instance.validateUrl(url);
-    };
 
     const analyzeWebsite = async () => {
         try {
@@ -43,7 +40,7 @@ const LandingPage = () => {
             return;
         }
 
-        if (isUrlInvalid()) {
+        if (LandingService.Instance.validateUrl(url)) {
             setError(ERROR_MESSAGES.INVALID_URL);
             showToastMessage('error', 'Invalid URL', ERROR_MESSAGES.INVALID_URL);
             return;
