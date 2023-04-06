@@ -6,6 +6,7 @@ from typing import Tuple
 from colour import Color
 import colorsys
 import re
+import os
 
 errors = []
 

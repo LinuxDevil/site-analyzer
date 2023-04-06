@@ -90,7 +90,9 @@ const LandingPage = () => {
                         severity="warning" outlined />
                 </div>
                 <small id="url-help">
-                    Enter your website to scan for contrast and speed.
+                    {
+                        isLoading? 'Please wait...': 'Enter your website to scan for contrast and speed.'
+                    }
                 </small>
             </Container>
         </div>

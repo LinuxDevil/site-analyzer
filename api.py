@@ -6,6 +6,8 @@ from fastapi.encoders import jsonable_encoder
 from fastapi.exceptions import RequestValidationError
 from fastapi.exceptions import HTTPException as FastHTTPException
 from starlette.exceptions import HTTPException as StarletteHTTPException
+from pydantic import BaseModel
+from color_analyser import anaylyze_and_save_report
 
 app = FastAPI()
 
@@ -42,11 +44,11 @@ async def fast_http_exception_handler(request, exc):
         status_code=exc.status_code, content=jsonable_encoder({"detail": exc.detail})
     )
 
-class UrlBody:
+class UrlBody(BaseModel):
     url: str
 
 @app.post('/api/v1/analyze')
-async def color_analyse(url: UrlBody):
+async def color_analyse(requestBody: UrlBody):
     return {
-        filePath: anaylyze_and_save_report(url)
+        'filePath': anaylyze_and_save_report(requestBody.url)
     }    
