@@ -3,7 +3,7 @@
 
 SiteAnalyzer is a Python tool that helps you analyze the color contrast and speed of websites, taking into account both light and dark themes. The tool follows the Web Content Accessibility Guidelines (WCAG) 2.1 AA level requirements for color contrast and suggests alternative colors when the contrast ratio is not met. It also checks for large text contrast ratios and provides color suggestions for dark themes when needed. Additionally, SiteAnalyzer measures the First Contentful Paint (FCP) and site speed using the Playwright library.
 
-![Screenshot of the client](https://github.com/LinuxDevil/site-analyzer/tree/main/screenshots/1.png)
+![Screenshot of the client](https://github.com/LinuxDevil/site-analyzer/blob/main/screenshots/1.png?raw=true)
 
 ## Features
 
