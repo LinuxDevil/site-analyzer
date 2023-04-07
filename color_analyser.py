@@ -6,6 +6,7 @@ from typing import Tuple
 from colour import Color
 import colorsys
 import re
+import os
 
 errors = []
 
@@ -180,3 +181,14 @@ if __name__ == "__main__":
         for error in errors:
             f.write(error + "\n")
 
+
+def anaylyze_and_save_report(url: str):
+    analyze_site_colors(url)
+    file_name = 'errors.txt'
+    file_path = os.path.join(os.getcwd(), file_name)
+
+    with open(file_name, 'w') as f:
+        for error in errors:
+            f.write(error + "\n")
+
+    return file_path
