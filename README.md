@@ -27,12 +27,17 @@ SiteAnalyzer is a Python tool that helps you analyze the color contrast and spee
 
 3.  Download the SiteAnalyzer Python script from this repository.
 
+
+4. CD into the js folder and run the following command:
+
+`npm install`
+
 ## Usage SiteAnalyzer
 
 1.  Run the SiteAnalyzer script using the following command:
 
 
-`python site_analyzer.py`
+`python speed-analyzer.py`
 
 
 2.  When prompted, enter the URL of the website you want to analyze. The script will then analyze the site's FCP and site speed, providing suggestions if necessary.
@@ -41,7 +46,7 @@ SiteAnalyzer is a Python tool that helps you analyze the color contrast and spee
 
 1. Run the ColorAnalyzer script using the following command:
 
-`python color_analyzer.py`
+`python color-analyzer.py`
 
 2. When prompted, enter the URL of the website you want to analyze. The script will then analyze the site's color contrast, providing suggestions if necessary.
 

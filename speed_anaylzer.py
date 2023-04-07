@@ -3,7 +3,7 @@ import json
 import subprocess
 
 def measure_lighthouse_report(url):
-    subprocess.run(["node", "node-app/lighthouse_report.js", url])
+    subprocess.run(["node", "js/lighthouse_report.js", url])
 
     with open("report.json", "r") as file:
         report = json.load(file)
