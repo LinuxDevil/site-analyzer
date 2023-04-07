@@ -37,7 +37,7 @@ SiteAnalyzer is a Python tool that helps you analyze the color contrast and spee
 1.  Run the SiteAnalyzer script using the following command:
 
 
-`python speed-analyzer.py`
+`python speed_analyzer.py`
 
 
 2.  When prompted, enter the URL of the website you want to analyze. The script will then analyze the site's FCP and site speed, providing suggestions if necessary.
@@ -46,9 +46,29 @@ SiteAnalyzer is a Python tool that helps you analyze the color contrast and spee
 
 1. Run the ColorAnalyzer script using the following command:
 
-`python color-analyzer.py`
+`python color_analyzer.py`
 
 2. When prompted, enter the URL of the website you want to analyze. The script will then analyze the site's color contrast, providing suggestions if necessary.
+
+## API
+
+1. Install the required Python libraries using the following command:
+
+`pip install fastapi uvicorn`
+
+2. Run the API using the following command:
+
+`uvicorn api:app --reload`
+
+## Client App
+
+1. Install the required npm libraries using the following command:
+
+`npm install`
+
+2. Run the client app using the following command:
+
+`npm start`
 
 ## License
 
